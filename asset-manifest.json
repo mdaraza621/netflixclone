@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/netflixclone/static/css/main.a5d2795b.css",
+    "main.js": "/netflixclone/static/js/main.6f1d1047.js",
+    "static/js/787.58b933ed.chunk.js": "/netflixclone/static/js/787.58b933ed.chunk.js",
+    "static/media/smallmovie5.jpg": "/netflixclone/static/media/smallmovie5.0c55d3720a6637c7166e.jpg",
+    "static/media/smallmovie2.jpg": "/netflixclone/static/media/smallmovie2.6152056d1143d6d45207.jpg",
+    "static/media/smallmovie3.jpg": "/netflixclone/static/media/smallmovie3.530703b5935dc5a77f30.jpg",
+    "static/media/smallmovie1.jpg": "/netflixclone/static/media/smallmovie1.9b30988b610e92081c23.jpg",
+    "static/media/largemovie2.jpg": "/netflixclone/static/media/largemovie2.ea1d2584c8a09eaec3cd.jpg",
+    "static/media/largemovie5.jpg": "/netflixclone/static/media/largemovie5.beccadb633d2614a9910.jpg",
+    "static/media/smallmovie7.jpg": "/netflixclone/static/media/smallmovie7.6f1bfd428ecb0922a264.jpg",
+    "static/media/banner.jpg": "/netflixclone/static/media/banner.a2a3b9c44c59e1b34d17.jpg",
+    "static/media/largemovie6.jpg": "/netflixclone/static/media/largemovie6.df45bac3de1adde9fde4.jpg",
+    "static/media/largemovie8.jpg": "/netflixclone/static/media/largemovie8.43d0e2f7d88114456701.jpg",
+    "static/media/largemovie4.jpg": "/netflixclone/static/media/largemovie4.3546b7d234870a6e4065.jpg",
+    "static/media/smallmovie4.jpg": "/netflixclone/static/media/smallmovie4.c544f9a65afdbac047b4.jpg",
+    "static/media/smallmovie8.jpg": "/netflixclone/static/media/smallmovie8.c5d8fb2accbdd1a7ac73.jpg",
+    "static/media/largemovie7.jpg": "/netflixclone/static/media/largemovie7.8a862457568dc06e1bc5.jpg",
+    "static/media/smallmovie6.jpg": "/netflixclone/static/media/smallmovie6.f8667b21dc92d48670a5.jpg",
+    "static/media/largemovie1.jpg": "/netflixclone/static/media/largemovie1.69333785c79f0420b1b8.jpg",
+    "static/media/netflixlogo.png": "/netflixclone/static/media/netflixlogo.b39480d09d45609d9d6f.png",
+    "static/media/largemovie3.jpg": "/netflixclone/static/media/largemovie3.62c785d02d5e58ea84dd.jpg",
+    "index.html": "/netflixclone/index.html",
+    "main.a5d2795b.css.map": "/netflixclone/static/css/main.a5d2795b.css.map",
+    "main.6f1d1047.js.map": "/netflixclone/static/js/main.6f1d1047.js.map",
+    "787.58b933ed.chunk.js.map": "/netflixclone/static/js/787.58b933ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5d2795b.css",
+    "static/js/main.6f1d1047.js"
+  ]
+}
